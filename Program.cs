@@ -6,7 +6,12 @@ namespace WriteLines
     {
         static void Main(string[] args)
         {
-        Console.WriteLine("Ciao!");
+              string nome = "Paolo";
+              Console.WriteLine(nome);
+              Console.WriteLine("Ciao!");
+              string cognome;
+
+              cognome = 
         }
     }
 }
