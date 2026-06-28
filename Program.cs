@@ -11,7 +11,13 @@ namespace WriteLines
               Console.WriteLine("Ciao!");
               string cognome;
 
-              cognome = 
+              cognome = "Rossi";
+
+              int età = 19;
+
+              Console.WriteLine("Ciao sono " + nome + cognome + "e ho " + età + " anni.");
+
+        
         }
     }
 }
