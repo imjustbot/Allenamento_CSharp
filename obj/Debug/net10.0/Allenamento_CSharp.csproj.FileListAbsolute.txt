@@ -1,0 +1,15 @@
+/workspaces/Allenamento_CSharp/bin/Debug/net10.0/Allenamento_CSharp
+/workspaces/Allenamento_CSharp/bin/Debug/net10.0/Allenamento_CSharp.deps.json
+/workspaces/Allenamento_CSharp/bin/Debug/net10.0/Allenamento_CSharp.runtimeconfig.json
+/workspaces/Allenamento_CSharp/bin/Debug/net10.0/Allenamento_CSharp.dll
+/workspaces/Allenamento_CSharp/bin/Debug/net10.0/Allenamento_CSharp.pdb
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.AssemblyInfoInputs.cache
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.AssemblyInfo.cs
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.csproj.CoreCompileInputs.cache
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.sourcelink.json
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.dll
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/refint/Allenamento_CSharp.dll
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.pdb
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/Allenamento_CSharp.genruntimeconfig.cache
+/workspaces/Allenamento_CSharp/obj/Debug/net10.0/ref/Allenamento_CSharp.dll
