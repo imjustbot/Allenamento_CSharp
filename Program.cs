@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.Threading;
 
 namespace WriteLines
 {
@@ -6,18 +8,127 @@ namespace WriteLines
     {
         static void Main(string[] args)
         {
-              string nome = "Paolo";
-              Console.WriteLine(nome);
-              Console.WriteLine("Ciao!");
-              string cognome;
+            
+            Console.Write("nome? ");
+            string nome = Console.ReadLine();
 
-              cognome = "Rossi";
+            Console.Write("cognome? ");
+            string cognome = Console.ReadLine();
 
-              int età = 19;
+            Thread.Sleep(2000);
 
-              Console.WriteLine("Ciao sono " + nome + cognome + "e ho " + età + " anni.");
+            Console.Write($"Ciao {nome} {cognome}! Come stai? ");
+            string risposta = Console.ReadLine();
 
+            if (risposta == "bene")
+                {
+                Thread.Sleep(1000);
+                Console.WriteLine("Perfetto!");
+                }
+
+
+
+
+            if (risposta == "male")
+                {
+                Thread.Sleep(1000);
+                Console.WriteLine("Mi dispiace!");
+                }
+
+
+
+
+                  
         
-        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        }       
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
