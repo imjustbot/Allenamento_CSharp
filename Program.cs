@@ -24,6 +24,7 @@ namespace WriteLines
                 {
                 Thread.Sleep(1000);
                 Console.WriteLine("Perfetto!");
+                Thread.Sleep(2000);
                 }
 
 
@@ -33,6 +34,7 @@ namespace WriteLines
                 {
                 Thread.Sleep(1000);
                 Console.WriteLine("Mi dispiace!");
+                Thread.Sleep(2000);
                 }
 
 
